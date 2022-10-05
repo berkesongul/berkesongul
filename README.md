@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @berkesongul
+- 👀 I’m interested in AI, Machine Learning, IOS, Android Deveoloping and Machine Learning.
+- 🌱 I’m currently learning C# and Unreal Engine software.
+- 💞️ I’m looking to collaborate on ACM.
+- 📫 Instagram: berkesongul97
+-     twitter: kicksmasher
+-     
