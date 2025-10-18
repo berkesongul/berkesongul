@@ -3,5 +3,4 @@
 -  I’m currently learning and developing C#, C++ and Unreal Engine software.
 -  I developed website and automation software for small businesses and medium-sized industrial companies.
 -  Instagram: berkesongul97
--     twitter: kicksmasher
--     
+-  Twitter: kicksmasher   
