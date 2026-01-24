@@ -1,6 +1,6 @@
 -  Hi, I’m @berkesongul
 -  I’m interested in AI, Machine Learning, IOS, Android Deveoloping and Machine Learning.
--  I’m currently learning and developing C#, C++ and Unreal Engine software.
+-  I’m currently learning and developing JavaScript, C#, C++ and Unreal Engine software.
 -  I developed website and automation software for small businesses and medium-sized industrial companies.
 -  Instagram: berkesongul97
 -  Twitter: kicksmasher   
