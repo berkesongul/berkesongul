@@ -114,39 +114,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkesongul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkesongul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkesongul&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkesongul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkesongul&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/berkesongul/berkesongul/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
 </p>
