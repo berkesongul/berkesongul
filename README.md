@@ -20,20 +20,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="320" src="assets/dev_workspace.png" alt="Developer Workspace"/>
 
-🎓 **Dokuz Eylül University** — Physics Department  
-📍 İzmir / Ankara, Turkey  
-💼 I develop **websites** and **automation software** for small businesses and medium-sized industrial companies  
-🎮 Passionate about game development with Unreal Engine  
-🤖 Researching and developing in **Artificial Intelligence** and **Machine Learning**  
-📱 Building iOS & Android mobile applications  
+**Dokuz Eylül University** — Physics Department  
+İzmir / Ankara, Turkey  
+I develop **websites** and **automation software** for small businesses and medium-sized industrial companies  
+Passionate about game development with Unreal Engine  
+Researching and developing in **Artificial Intelligence** and **Machine Learning**  
+Building iOS & Android mobile applications  
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
       <p align="center">Software project built with <strong>C#</strong> ⭐ 2</p>
     </td>
     <td width="50%">
-      <h3 align="center">📻 SomaFM</h3>
+      <h3 align="center"> SomaFM</h3>
       <p align="center">
         <a href="https://github.com/berkesongul/somafm">
           <img src="https://img.shields.io/badge/REPO-SomaFM-blueviolet?style=for-the-badge&logo=github" alt="SomaFM"/>
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Personal Website</h3>
+      <h3 align="center"> Personal Website</h3>
       <p align="center">
         <a href="https://github.com/berkesongul/berkesongul.github.io">
           <img src="https://img.shields.io/badge/REPO-Portfolio-blueviolet?style=for-the-badge&logo=github" alt="Portfolio"/>
@@ -101,7 +101,7 @@
       <p align="center">Personal portfolio & showcase website — <strong>HTML</strong> ⭐ 1</p>
     </td>
     <td width="50%">
-      <h3 align="center">💄 Eny Beauty</h3>
+      <h3 align="center"> Eny Beauty</h3>
       <p align="center">
         <a href="https://github.com/berkesongul/enybeauty">
           <img src="https://img.shields.io/badge/REPO-Eny_Beauty-blueviolet?style=for-the-badge&logo=github" alt="Eny Beauty"/>
