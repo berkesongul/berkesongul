@@ -18,8 +18,6 @@
 
 ## About Me
 
-<img align="right" width="320" src="assets/dev_workspace.png" alt="Developer Workspace"/>
-
 **Dokuz Eylül University** — Physics Department  
 İzmir / Ankara, Turkey  
 I develop **websites** and **automation software** for small businesses and medium-sized industrial companies  
