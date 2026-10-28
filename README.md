@@ -61,53 +61,6 @@ Building iOS & Android mobile applications
 
 ---
 
-##  Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Reactorware</h3>
-      <p align="center">
-        <a href="https://github.com/berkesongul/reactorware">
-          <img src="https://img.shields.io/badge/REPO-Reactorware-blueviolet?style=for-the-badge&logo=github" alt="Reactorware"/>
-        </a>
-      </p>
-      <p align="center">Software project built with <strong>C#</strong> ⭐ 2</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"> SomaFM</h3>
-      <p align="center">
-        <a href="https://github.com/berkesongul/somafm">
-          <img src="https://img.shields.io/badge/REPO-SomaFM-blueviolet?style=for-the-badge&logo=github" alt="SomaFM"/>
-        </a>
-      </p>
-      <p align="center">Radio & media platform for the Soma & Aegean region — <strong>TypeScript</strong> ⭐ 1</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> Personal Website</h3>
-      <p align="center">
-        <a href="https://github.com/berkesongul/berkesongul.github.io">
-          <img src="https://img.shields.io/badge/REPO-Portfolio-blueviolet?style=for-the-badge&logo=github" alt="Portfolio"/>
-        </a>
-      </p>
-      <p align="center">Personal portfolio & showcase website — <strong>HTML</strong> ⭐ 1</p>
-    </td>
-    <td width="50%">
-      <h3 align="center"> Eny Beauty</h3>
-      <p align="center">
-        <a href="https://github.com/berkesongul/enybeauty">
-          <img src="https://img.shields.io/badge/REPO-Eny_Beauty-blueviolet?style=for-the-badge&logo=github" alt="Eny Beauty"/>
-        </a>
-      </p>
-      <p align="center">Beauty brand website — <strong>HTML / CSS</strong></p>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=100&section=footer" width="100%"/>
 </p>
